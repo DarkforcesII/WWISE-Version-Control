@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3069803190	Play_Music_Event			\Default Work Unit\Play_Music_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	166458507	Music	D:\Documents\New GitHub Repo\Middleware Version Control\WWISE-Version-Control\WWISE Version Control\WWISE Version Control_WwiseProject\.cache\Windows\SFX\ByronBeasleyDiscoFinal_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music		49593860
+

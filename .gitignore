@@ -58,3 +58,40 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# WWISE Ignored Files
+.wavFile.txt
+# Validation Cache
+# WWISE Version Control_WwiseProject.cyber.validationcache
+*.validationcache
+*.wsettings
+*.akd
+SoundbanksInfo.xml
+PluginInfo.xml
+# Optional and may be integrated into WWISE workflow. Talk to audio programmer
+# NameOfSoundBank.txt
+# Cache folder
+.cache
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
