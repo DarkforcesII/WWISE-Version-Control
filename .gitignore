@@ -70,7 +70,11 @@ PluginInfo.xml
 # Optional and may be integrated into WWISE workflow. Talk to audio programmer
 # NameOfSoundBank.txt
 # Cache folder
-.cache
+#.cache
+CacheVersion
+SoundBankInfoCache.dat
+Wwise.dat
+ByronBeasleyDiscoFinal_D79FB2B7.wem
 
 
 
